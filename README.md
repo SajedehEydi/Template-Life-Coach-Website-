@@ -1,6 +1,6 @@
 # Life Coach Website Template
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**hope you enjoy 🙃**
 
 ![image psd](https://github.com/SajedehEydi/Template-Life-Coach-Website-/assets/155808160/9a489e7c-d725-4461-a857-d8dd8cf006a8)
 
@@ -8,7 +8,7 @@
 
 - [Demo Project](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
-- coded by Sajede Eydi Goltappehei
+- coded by Sajede Eydi Goltappehei🌻
 
 - Created - 2024
 
