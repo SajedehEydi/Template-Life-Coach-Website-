@@ -2,9 +2,9 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](file:///C:/Users/IT%20CITY/Desktop/saji%20vsc/git/project/index.html)
+![viewfinal](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
 - [Demo Project](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
