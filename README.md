@@ -8,7 +8,7 @@
 
 - [Demo Project](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
-- coded by Sajede Eydi Goltappehei🌻
+- coded by: Sajede Eydi Goltappehei🌻
 
 - Created - 2024
 
