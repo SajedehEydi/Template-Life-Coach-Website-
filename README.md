@@ -1,1 +1,1 @@
-# Template-Life-Coach-Website-
+# Template-Life-Coach-Website
