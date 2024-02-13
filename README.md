@@ -4,7 +4,7 @@
 
 ![image psd](https://github.com/SajedehEydi/Template-Life-Coach-Website-/assets/155808160/9a489e7c-d725-4461-a857-d8dd8cf006a8)
 
-![view final](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
+![image](https://github.com/SajedehEydi/Template-Life-Coach-Website-/assets/155808160/a1485bb0-a847-4eb7-99ec-d906de915122)
 
 - [Demo Project](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
