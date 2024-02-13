@@ -12,15 +12,15 @@
 
 - [Demo Project](https://sajedeheydi.github.io/Template-Life-Coach-Website-/)
 
-- coded by: Sajede Eydi Goltappehei🌻
+- coded by : Sajede Eydi Goltappehei🌻
 
-- Created - February 2024
+- Created : February 2024
 
-- Technologies Used - Html , css 
+- Technologies Used : Html , css 
 
 - Hooks Used : useState 
 
-- Role - Frontend
+- Role : Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/saji.ad.web?igsh=MW5lOHBscWJyYnpoZQ==) and [linkedin](http://www.linkedin.com/in/sajede-eydi-goltappehei-418ba8222)
 
